@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    padding:0;
+    background: url(Call-of-Duty-Black-Ops-4.jpg) no-repeat center fixed;
+    -webkit-backdround-size: cover;
+    background-size : cover;
+}
+.Titre {
+    font-size :150px;
+
+
+
+
+}
